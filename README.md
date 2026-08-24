@@ -92,8 +92,8 @@ GitHub: @rajwav
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajwav&show_icons=true&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api?username=rajwav&show_icons=true&theme=tokyonight" alt="Rajwav's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwav&layout=compact&theme=tokyonight" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajwav&layout=compact&theme=tokyonight" alt="Rajwav's Top Languages" />
 
 </div>
