@@ -88,18 +88,12 @@ GitHub: @rajwav
 
 ---
 
----
-
-## 📊 GitHub Stats
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajwav&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajwav&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajwav&layout=compact&theme=tokyonight" />
 
 </div>
