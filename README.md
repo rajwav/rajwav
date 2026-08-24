@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+👋;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+🚀;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Edge+AI" alt="Typing SVG" />
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+👋;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+🚀;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Deep+Tech" alt="Typing SVG" />
 
-# 👨‍💻 Rajwav
+# 👨‍💻 Pitambar Panda (Rajwav)
 ### 🤖 AI • Machine Learning • Software Systems • Robotics
-**Computer Science Engineering @ VSSUT** | **Future Founder @ InnoSphere**
+**🎓 Computer Science Engineering @ VSSUT** | **🚀 Future Founder @ InnoSphere**
 
 <p align="center">
   <a href="https://github.com/rajwav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="mailto:theraj.wav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-theraj.wav@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+<!-- Cyberpunk Pixel Art Developer Avatar -->
 <br>
-
-<img src="./assets/pixel-avatar.gif" width="200" alt="Pixel Avatar" />
-
+<img src="./assets/pixel-avatar.gif" width="220" alt="Cyberpunk AI Developer Avatar" />
 <br><br>
 
-*Building intelligent systems, deep-tech architectures, and products that create meaningful real-world impact.*
+*Building intelligent systems, autonomous architectures, and deep-tech products that bridge the gap between AI, robotics, and real-world impact.*
 
 </div>
 
@@ -32,12 +34,13 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Computer Science Engineering student at Veer Surendra Sai University of Technology (VSSUT)**, dedicated to building at the intersection of **Artificial Intelligence**, **Robotics**, and **Scalable Software Systems**.
+I am a **Computer Science Engineering student at Veer Surendra Sai University of Technology (VSSUT)**, focused on engineering high-performance systems at the intersection of **Artificial Intelligence**, **Autonomous Robotics**, and **Modern Software Architecture**.
 
-- 🧠 **AI & ML Focus**: Developing deep learning models, predictive intelligence systems, and generative AI workflows.
-- ⚙️ **Systems & Architecture**: Engineering high-performance backends, clean APIs, and distributed architectures.
-- 🚀 **Founder Vision**: Building **InnoSphere** — an innovation initiative aimed at pioneering deep-tech solutions in AI + autonomous systems.
-- 🎯 **Mission**: Bridging the gap between cutting-edge research and real-world commercial impact.
+- 🧠 **AI & Machine Learning**: Developing machine learning pipelines, deep neural architectures, predictive modeling systems, and generative AI integrations.
+- ⚙️ **Systems & Backend**: Engineering scalable backends, asynchronous data processing, high-concurrency communication layers, and clean RESTful APIs.
+- 🤖 **Robotics & Hardware-Software Fusion**: Exploring sensor telemetry, edge AI acceleration, and autonomous robotic systems.
+- 🚀 **Founder Vision (InnoSphere)**: Building **InnoSphere** — an innovation initiative dedicated to creating real-world deep-tech solutions in AI automation and robotics.
+- 💡 **Core Philosophy**: Understand foundational theory deeply, write clean code, and turn ideas into deployed products.
 
 ---
 
@@ -47,17 +50,17 @@ I am a **Computer Science Engineering student at Veer Surendra Sai University of
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 ### 🧠 AI / ML & Data Science
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
@@ -79,33 +82,33 @@ I am a **Computer Science Engineering student at Veer Surendra Sai University of
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🌊 NEON Water Intelligence System</h3>
-      <p><b>AI-powered Water Quality Monitoring & Predictive Analytics</b></p>
-      <p>An intelligent platform for environmental water telemetry, real-time quality classification, and anomaly detection using sensor datasets.</p>
+      <p><b>AI-Powered Water Quality Monitoring & Predictive Analytics</b></p>
+      <p>An intelligent environmental telemetry platform that analyzes multi-sensor water quality metrics, classifies contamination risks, and performs anomaly detection using machine learning models.</p>
       <ul>
-        <li><b>Tech:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Scikit-Learn</code>, <code>Jupyter</code></li>
-        <li><b>Key Features:</b> Predictive contamination models, real-time sensor processing, statistical metric dashboards.</li>
+        <li><b>Technologies:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Scikit-Learn</code>, <code>Jupyter</code></li>
+        <li><b>Key Highlights:</b> Real-time parameter evaluation, predictive purity classification, automated sensor data pipelines.</li>
       </ul>
-      <p>👉 <a href="https://github.com/rajwav/neon_water_project"><b>View Repository ➔</b></a></p>
+      <p>👉 <a href="https://github.com/rajwav/neon_water_project"><b>Explore Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🗣️ Samvad</h3>
-      <p><b>Modern Communication & Dialogue Platform</b></p>
-      <p>A full-stack, real-time communication platform engineered for high-concurrency interaction and seamless digital conversations.</p>
+      <p><b>Modern Real-Time Communication Platform</b></p>
+      <p>A full-stack, high-concurrency messaging and digital dialogue system engineered for low-latency synchronization and responsive user interactions.</p>
       <ul>
-        <li><b>Tech:</b> <code>TypeScript</code>, <code>Node.js</code>, <code>Modern Web Architecture</code></li>
-        <li><b>Key Features:</b> Low-latency message synchronization, clean reactive UI, robust data models.</li>
+        <li><b>Technologies:</b> <code>TypeScript</code>, <code>Node.js</code>, <code>Full-Stack Web Architecture</code></li>
+        <li><b>Key Highlights:</b> High-throughput event handling, responsive interface, structured data management.</li>
       </ul>
-      <p>👉 <a href="https://github.com/rajwav/samvad"><b>View Repository ➔</b></a></p>
+      <p>👉 <a href="https://github.com/rajwav/samvad"><b>Explore Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3 align="left">🧠 InnoSphere</h3>
-      <p><b>Deep-Tech Innovation Hub • AI + Robotics Venture (In Development)</b></p>
-      <p>A long-term initiative focused on creating intelligent autonomous systems, edge AI applications, and robotics solutions for industrial and consumer automation.</p>
+      <p><b>Deep-Tech Innovation Initiative • AI + Robotics Venture (In Development)</b></p>
+      <p>A forward-looking initiative aimed at building intelligent autonomous agents, edge computing intelligence, and robotics systems for next-generation automation.</p>
       <ul>
-        <li><b>Focus:</b> Autonomous Agent Architectures, Edge Neural Inference, Hardware-Software Integration.</li>
-        <li><b>Status:</b> 🚀 <i>Active Prototyping & Research</i></li>
+        <li><b>Research & Focus:</b> Autonomous Agent Frameworks, Neural Edge Inference, Embedded Hardware-Software Synergy.</li>
+        <li><b>Status:</b> 🚀 <i>Active Research & System Prototyping</i></li>
       </ul>
     </td>
   </tr>
@@ -116,17 +119,19 @@ I am a **Computer Science Engineering student at Veer Surendra Sai University of
 ## 📈 Engineering Journey & Roadmap
 
 ```
-├── 🟢 Core Foundations
-│   ├── Data Structures & Algorithms (C++)           [Mastered]
-│   └── Python & Scientific Computing (NumPy/Pandas)  [Mastered]
-│
-├── 🟡 AI / Machine Learning
-│   ├── Statistical Machine Learning & Feature Eng.  [Active]
-│   └── Deep Neural Networks & Computer Vision        [Active]
-│
-└── 🔵 Frontier Research & Deep Tech
-    ├── Generative AI & Autonomous Agent Systems     [In Progress]
-    └── Robotics & Edge AI Systems (InnoSphere)      [Exploring]
+Core Foundations
+ ├── Data Structures & Algorithms (C++)           [Mastered]
+ └── Scientific Computing (Python, NumPy, Pandas) [Mastered]
+
+AI & Machine Learning
+ ├── Statistical ML & Predictive Modeling        [Active]
+ ├── Deep Neural Networks & Computer Vision       [Active]
+ └── Natural Language Processing & GenAI          [Active]
+
+Frontier Research & Deep Tech (InnoSphere)
+ ├── Autonomous Agents & Multi-Agent Systems     [In Progress]
+ ├── Embedded Robotics & Sensor Telemetry         [Exploring]
+ └── Edge AI & Hardware Acceleration              [Exploring]
 ```
 
 ---
@@ -154,6 +159,20 @@ I am a **Computer Science Engineering student at Veer Surendra Sai University of
 
 ---
 
+## 🐍 Contribution Graph Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajwav/rajwav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajwav/rajwav/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/rajwav/rajwav/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
+</div>
+
+---
+
 ## 📫 Connect & Collaborate
 
 <div align="center">
@@ -176,6 +195,6 @@ Let's connect and build innovative technology together:
 
 <br><br>
 
-<sub>Designed & Engineered by <a href="https://github.com/rajwav">Rajwav</a></sub>
+<sub>Engineered with ⚡ by <a href="https://github.com/rajwav">Pitambar Panda (Rajwav)</a></sub>
 
 </div>
