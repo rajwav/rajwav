@@ -23,7 +23,7 @@
 
 <!-- Cyberpunk Pixel Art Developer Avatar -->
 <br>
-<img src="./assets/pixel-avatar.gif" width="220" alt="Cyberpunk AI Developer Avatar" />
+<img src="./assets/raj-pixel.gif" width="250" alt="Rajwav Pixel Art Avatar" />
 <br><br>
 
 *Building intelligent systems, autonomous architectures, and deep-tech products that bridge the gap between AI, robotics, and real-world impact.*
