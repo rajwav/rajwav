@@ -18,6 +18,12 @@
   </a>
 </p>
 
+<br>
+
+<img src="./assets/pixel-avatar.gif" width="200" alt="Pixel Avatar" />
+
+<br><br>
+
 *Building intelligent systems, deep-tech architectures, and products that create meaningful real-world impact.*
 
 </div>
