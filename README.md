@@ -1,6 +1,23 @@
-# 👋 Hey, I'm Raj
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+Progress;CSE+Student+%40+VSSUT;Building+InnoSphere+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+👋;AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems+🚀;Future+Founder+of+InnoSphere">
+
+</div>
+
+<h1 align="center">
+Rajwav
+</h1>
+
+<h3 align="center">
+🤖 AI • Machine Learning • Software Systems • Robotics
+</h3>
+
+<p align="center">
+Computer Science Engineering Student @ VSSUT <br>
+Building projects, learning deeply, and creating technology that matters.
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 
