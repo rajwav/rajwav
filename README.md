@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+👋;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+🚀;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Deep+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+%F0%9F%91%8B;AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems+%F0%9F%9A%80;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Deep+Tech" alt="Typing SVG" />
 
 # 👨‍💻 Pitambar Panda (Rajwav)
 ### 🤖 AI • Machine Learning • Software Systems • Robotics
@@ -145,7 +145,7 @@ Frontier Research & Deep Tech (InnoSphere)
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com/?user=rajwav&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajwav&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 
   <br><br>
 
