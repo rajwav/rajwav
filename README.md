@@ -21,9 +21,9 @@
   </a>
 </p>
 
-<!-- Cyberpunk Pixel Art Developer Avatar -->
+<!-- Cyberpunk Pixel Art Origin Story -->
 <br>
-<img src="./assets/raj-pixel.gif" width="250" alt="Rajwav Pixel Art Avatar" />
+<img src="./assets/raj-origin.gif" width="300" alt="The Birth of an AI Engineer - Rajwav" />
 <br><br>
 
 *Building intelligent systems, autonomous architectures, and deep-tech products that bridge the gap between AI, robotics, and real-world impact.*
