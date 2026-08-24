@@ -1,99 +1,175 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+👋;AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems+🚀;Future+Founder+of+InnoSphere">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+👋;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+🚀;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Edge+AI" alt="Typing SVG" />
 
-</div>
-
-<h1 align="center">
-Rajwav
-</h1>
-
-<h3 align="center">
-🤖 AI • Machine Learning • Software Systems • Robotics
-</h3>
+# 👨‍💻 Rajwav
+### 🤖 AI • Machine Learning • Software Systems • Robotics
+**Computer Science Engineering @ VSSUT** | **Future Founder @ InnoSphere**
 
 <p align="center">
-Computer Science Engineering Student @ VSSUT <br>
-Building projects, learning deeply, and creating technology that matters.
+  <a href="https://github.com/rajwav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:theraj.wav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
+*Building intelligent systems, deep-tech architectures, and products that create meaningful real-world impact.*
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm Raj, a Computer Science Engineering student passionate about:
+I am a **Computer Science Engineering student at Veer Surendra Sai University of Technology (VSSUT)**, dedicated to building at the intersection of **Artificial Intelligence**, **Robotics**, and **Scalable Software Systems**.
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚙️ Software Systems
-- 🚀 Building real-world products
-
-Currently learning:
-
-- Python
-- C++
-- Data Structures & Algorithms
-- Machine Learning
-- Generative AI
-
-My goal:
-Build technology that creates meaningful impact.
+- 🧠 **AI & ML Focus**: Developing deep learning models, predictive intelligence systems, and generative AI workflows.
+- ⚙️ **Systems & Architecture**: Engineering high-performance backends, clean APIs, and distributed architectures.
+- 🚀 **Founder Vision**: Building **InnoSphere** — an innovation initiative aimed at pioneering deep-tech solutions in AI + autonomous systems.
+- 🎯 **Mission**: Bridging the gap between cutting-edge research and real-world commercial impact.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-Python • C++ • JavaScript
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
 
-### AI / Data
-NumPy • Pandas • Scikit-Learn
+### 🧠 AI / ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-### Tools
-Git • Linux • VS Code • FastAPI
+### ⚙️ Systems, Backend & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🌊 **NEON Water Intelligence System**
-
-AI-based water quality monitoring and prediction project.
-
-
-🗣️ **Samvad**
-
-A communication-focused software project.
-
-
-🧠 **InnoSphere**
-
-Building towards AI + Robotics innovations.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🌊 NEON Water Intelligence System</h3>
+      <p><b>AI-powered Water Quality Monitoring & Predictive Analytics</b></p>
+      <p>An intelligent platform for environmental water telemetry, real-time quality classification, and anomaly detection using sensor datasets.</p>
+      <ul>
+        <li><b>Tech:</b> <code>Python</code>, <code>Pandas</code>, <code>NumPy</code>, <code>Scikit-Learn</code>, <code>Jupyter</code></li>
+        <li><b>Key Features:</b> Predictive contamination models, real-time sensor processing, statistical metric dashboards.</li>
+      </ul>
+      <p>👉 <a href="https://github.com/rajwav/neon_water_project"><b>View Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🗣️ Samvad</h3>
+      <p><b>Modern Communication & Dialogue Platform</b></p>
+      <p>A full-stack, real-time communication platform engineered for high-concurrency interaction and seamless digital conversations.</p>
+      <ul>
+        <li><b>Tech:</b> <code>TypeScript</code>, <code>Node.js</code>, <code>Modern Web Architecture</code></li>
+        <li><b>Key Features:</b> Low-latency message synchronization, clean reactive UI, robust data models.</li>
+      </ul>
+      <p>👉 <a href="https://github.com/rajwav/samvad"><b>View Repository ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="left">🧠 InnoSphere</h3>
+      <p><b>Deep-Tech Innovation Hub • AI + Robotics Venture (In Development)</b></p>
+      <p>A long-term initiative focused on creating intelligent autonomous systems, edge AI applications, and robotics solutions for industrial and consumer automation.</p>
+      <ul>
+        <li><b>Focus:</b> Autonomous Agent Architectures, Edge Neural Inference, Hardware-Software Integration.</li>
+        <li><b>Status:</b> 🚀 <i>Active Prototyping & Research</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Current Journey
-Python              ✅
-NumPy/Pandas        ✅
-Machine Learning    🔄
-Deep Learning       🔄
-Generative AI       🔄
-Robotics            🔄
+## 📈 Engineering Journey & Roadmap
+
+```
+├── 🟢 Core Foundations
+│   ├── Data Structures & Algorithms (C++)           [Mastered]
+│   └── Python & Scientific Computing (NumPy/Pandas)  [Mastered]
+│
+├── 🟡 AI / Machine Learning
+│   ├── Statistical Machine Learning & Feature Eng.  [Active]
+│   └── Deep Neural Networks & Computer Vision        [Active]
+│
+└── 🔵 Frontier Research & Deep Tech
+    ├── Generative AI & Autonomous Agent Systems     [In Progress]
+    └── Robotics & Edge AI Systems (InnoSphere)      [Exploring]
+```
 
 ---
 
-## 📫 Connect With Me
-
-GitHub: @rajwav
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=rajwav&show_icons=true&theme=tokyonight" alt="Rajwav's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rajwav&show_icons=true&theme=tokyonight" alt="Rajwav GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajwav&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajwav&layout=compact&theme=tokyonight" alt="Rajwav's Top Languages" />
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com/?user=rajwav&theme=tokyonight" alt="GitHub Streak" width="97%" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajwav&theme=tokyo-night" alt="Activity Graph" width="97%" />
+
+  <br><br>
+
+  <img src="https://trophy.ryglcloud.net/?username=rajwav&theme=tokyonight&no-bg=true&margin_w=15&row=1&column=7" alt="GitHub Trophies" width="97%" />
+
+</div>
+
+---
+
+## 📫 Connect & Collaborate
+
+<div align="center">
+
+Let's connect and build innovative technology together:
+
+<br>
+
+<a href="https://github.com/rajwav">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:theraj.wav@gmail.com">
+  <img src="https://img.shields.io/badge/Email-theraj.wav@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+<sub>Designed & Engineered by <a href="https://github.com/rajwav">Rajwav</a></sub>
 
 </div>
