@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+%F0%9F%91%8B;AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems+%F0%9F%9A%80;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Deep+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Building+Intelligent+Systems+%F0%9F%9A%80;Future+Founder+%40+InnoSphere;Exploring+Robotics+%26+Deep+Tech" alt="Typing SVG" />
 
-# 👨‍💻 Pitambar Panda (Rajwav)
-### 🤖 AI • Machine Learning • Software Systems • Robotics
-**🎓 Computer Science Engineering @ VSSUT** | **🚀 Future Founder @ InnoSphere**
+# Pitambar Panda (Rajwav)
+### AI • Machine Learning • Software Systems • Robotics
+**Computer Science Engineering @ VSSUT · Future Founder @ InnoSphere**
 
 <p align="center">
   <a href="https://github.com/rajwav">
@@ -21,32 +20,27 @@
   </a>
 </p>
 
-<!-- Cinematic Pixel Art Hero Scene -->
-<br>
-<img src="./assets/raj-hero.gif" width="100%" alt="Rajwav Workstation - The Birth of an AI Engineer" />
-<br><br>
-
-*Building intelligent systems, autonomous architectures, and deep-tech products that bridge the gap between AI, robotics, and real-world impact.*
+*Building intelligent systems, autonomous architectures, and deep-tech products that bridge AI, robotics, and real-world impact.*
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 📌 About Me
 
 I am a **Computer Science Engineering student at Veer Surendra Sai University of Technology (VSSUT)**, focused on engineering high-performance systems at the intersection of **Artificial Intelligence**, **Autonomous Robotics**, and **Modern Software Architecture**.
 
-- 🧠 **AI & Machine Learning**: Developing machine learning pipelines, deep neural architectures, predictive modeling systems, and generative AI integrations.
-- ⚙️ **Systems & Backend**: Engineering scalable backends, asynchronous data processing, high-concurrency communication layers, and clean RESTful APIs.
-- 🤖 **Robotics & Hardware-Software Fusion**: Exploring sensor telemetry, edge AI acceleration, and autonomous robotic systems.
-- 🚀 **Founder Vision (InnoSphere)**: Building **InnoSphere** — an innovation initiative dedicated to creating real-world deep-tech solutions in AI automation and robotics.
-- 💡 **Core Philosophy**: Understand foundational theory deeply, write clean code, and turn ideas into deployed products.
+- **AI & Machine Learning**: Developing machine learning pipelines, deep neural architectures, predictive modeling systems, and generative AI integrations.
+- **Systems & Backend**: Engineering scalable backends, asynchronous data processing, high-concurrency communication layers, and clean RESTful APIs.
+- **Robotics & Hardware-Software Fusion**: Exploring sensor telemetry, edge AI acceleration, and autonomous robotic systems.
+- **Founder Vision (InnoSphere)**: Building **InnoSphere** — an innovation initiative dedicated to creating real-world deep-tech solutions in AI automation and robotics.
+- **Core Philosophy**: Understand foundational theory deeply, write clean code, and turn ideas into deployed products.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -55,7 +49,7 @@ I am a **Computer Science Engineering student at Veer Surendra Sai University of
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### 🧠 AI / ML & Data Science
+### AI / ML & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -64,7 +58,7 @@ I am a **Computer Science Engineering student at Veer Surendra Sai University of
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-### ⚙️ Systems, Backend & Tools
+### Systems, Backend & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
