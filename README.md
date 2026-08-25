@@ -143,7 +143,7 @@ Frontier Research & Deep Tech (InnoSphere)
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajwav&theme=tokyo-night" alt="Activity Graph" width="97%" />
+  <img src="https://github-readme-activity-graph-eta-puce.vercel.app/graph?username=rajwav&theme=tokyo-night" alt="Activity Graph" width="97%" />
 
   <br><br>
 
