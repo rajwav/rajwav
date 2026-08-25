@@ -163,6 +163,15 @@ Frontier Research & Deep Tech (InnoSphere)
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/rajwav/rajwav/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
+  <br><br>
+
+  <p>
+    <b>Customize the contribution snake yourself:</b><br>
+    <a href="https://github.com/rajwav/contribution-snake-lab">
+      <img src="https://img.shields.io/badge/🧪_Open_Snake_Lab-0D1117?style=for-the-badge&logoColor=00FFC3&labelColor=161B22&color=00FFC3" alt="Open Snake Lab" />
+    </a>
+  </p>
+
 </div>
 
 ---
