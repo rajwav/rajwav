@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Run every 12 hours
-    - cron: "0 */12 * * *"
+    # Run once every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -24,10 +24,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF99&color_dots=#161B22,#0E4429,#006D32,#26A641,#00FF99
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF99
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy Snake SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.5.0
         with:
           target_branch: output
           build_dir: dist
