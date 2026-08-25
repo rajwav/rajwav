@@ -21,9 +21,9 @@
   </a>
 </p>
 
-<!-- Cyberpunk Pixel Art Origin Story -->
+<!-- Cinematic Pixel Art Hero Scene -->
 <br>
-<img src="./assets/raj-origin.gif" width="300" alt="The Birth of an AI Engineer - Rajwav" />
+<img src="./assets/raj-hero.gif" width="100%" alt="Rajwav Workstation - The Birth of an AI Engineer" />
 <br><br>
 
 *Building intelligent systems, autonomous architectures, and deep-tech products that bridge the gap between AI, robotics, and real-world impact.*
