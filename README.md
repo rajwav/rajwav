@@ -167,8 +167,12 @@ Frontier Research & Deep Tech (InnoSphere)
 
   <p>
     <b>Customize the contribution snake yourself:</b><br>
-    <a href="https://github.com/rajwav/contribution-snake-lab">
+    <a href="https://contribution-snake-lab.vercel.app">
       <img src="https://img.shields.io/badge/🧪_Open_Snake_Lab-0D1117?style=for-the-badge&logoColor=00FFC3&labelColor=161B22&color=00FFC3" alt="Open Snake Lab" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/rajwav/contribution-snake-lab">
+      <img src="https://img.shields.io/badge/View_Source-161B22?style=for-the-badge&logo=github&logoColor=C9D1D9&color=30363D" alt="View Source" />
     </a>
   </p>
 
