@@ -180,6 +180,20 @@ Frontier Research & Deep Tech (InnoSphere)
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph-eta-puce.vercel.app/activity?username=rajwav"
+    alt="GitHub Activity"
+    width="97%"
+  />
+
+</div>
+
+---
+
 ## 📫 Connect & Collaborate
 
 <div align="center">
