@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Run every 6 hours and daily
+    # Run every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
@@ -12,82 +12,24 @@ on:
 permissions:
   contents: write
 
-env:
-  # =============================================================
-  # SNAKE CUSTOMIZATION SETTINGS
-  # =============================================================
-  # 1. Snake Color (Default: #00FFC3 - Cyan / Teal)
-  SNAKE_COLOR: "#00FFC3"
-
-  # 2. Snake Animation Speed: "slow" | "medium" | "fast" (Default: "medium")
-  #    - slow   : 1.5x duration (relaxed, deliberate movement)
-  #    - medium : 1.0x duration (standard smooth default)
-  #    - fast   : 0.6x duration (snappy, energetic movement)
-  SNAKE_SPEED: "medium"
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
-      - name: Generate Contribution Snake Base SVGs
+      - name: Generate Contribution Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#00FFC3
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFC3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Apply Snake Customizations (Color: ${{ env.SNAKE_COLOR }}, Speed: ${{ env.SNAKE_SPEED }})
-        run: |
-          python3 -c "
-          import os, re, glob
-
-          snake_color = os.environ.get('SNAKE_COLOR', '#00FFC3').strip()
-          speed = os.environ.get('SNAKE_SPEED', 'medium').strip().lower()
-
-          speed_factors = {
-              'slow': 1.5,
-              'medium': 1.0,
-              'fast': 0.6
-          }
-          factor = speed_factors.get(speed, 1.0)
-
-          svg_files = glob.glob('dist/*.svg')
-          print(f'Found {len(svg_files)} SVGs to customize: {svg_files}')
-
-          for filepath in svg_files:
-              with open(filepath, 'r', encoding='utf-8') as f:
-                  content = f.read()
-
-              # 1. Apply Snake Color to CSS variable --cs
-              if snake_color:
-                  content = re.sub(r'--cs:[^;}]+', f'--cs:{snake_color}', content)
-
-              # 2. Apply Speed Scaling to animation durations
-              if factor != 1.0:
-                  def scale_ms(match):
-                      val = int(match.group(1))
-                      return f'{int(val * factor)}ms'
-                  content = re.sub(r'(\d+)ms', scale_ms, content)
-
-              with open(filepath, 'w', encoding='utf-8') as f:
-                  f.write(content)
-
-              # Verify
-              cs_match = re.search(r'--cs:[^;}]+', content)
-              timings = re.findall(r'\d+ms', content)[:3]
-              print(f'Successfully updated {filepath}:')
-              print(f'  Snake Color: {cs_match.group(0) if cs_match else \"N/A\"}')
-              print(f'  Timing snippet: {timings}')
-          "
-
       - name: Deploy Snake SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.5.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
